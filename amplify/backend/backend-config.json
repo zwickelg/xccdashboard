@@ -1,0 +1,10 @@
+{
+  "auth": {
+    "xccdashboarde54cdebf": {
+      "service": "Cognito",
+      "providerPlugin": "awscloudformation",
+      "dependsOn": [],
+      "customAuth": false
+    }
+  }
+}
